@@ -1,0 +1,281 @@
+{
+    "data": [
+    {
+      "id": "015c",
+      "logocomp": {
+        "url": "https://res.cloudinary.com/dfvonhupq/image/upload/v1733837514/logoW_l1pdsf.png",
+        "urlcolor": "https://res.cloudinary.com/dfvonhupq/image/upload/v1733837514/logo_lneayw.png"
+      },
+      "menuheaderNav": {
+        "id": "016c",
+        "links": [
+          {
+            "name": "Home",
+            "id": "457854771",
+            "urlName": "",
+            "sublinks": []
+          },
+          {
+            "name": "About Aricxes",
+            "id": "457854772",
+            "urlName": "about-us",
+            "sublinks": []
+          },
+          {
+            "name": "Services",
+            "id": "457854773",
+            "urlName": "services",
+            "sublinks": [
+              {
+                "name": "Digital Marketing",
+                "id": "ser01",
+                "urlname": "digital-marketing"
+              },
+              {
+                "name": "Ecommerce Development",
+                "id": "ser02",
+                "urlname": "ecommerce-development"
+              },
+              {
+                "name": "Web Application Development",
+                "id": "ser03",
+                "urlname": "webapp-development"
+              },
+              {
+                "name": "Mobile Development",
+                "id": "ser04",
+                "urlname": "mobile-development"
+              },
+              {
+                "name": "UI/UX Designing",
+                "id": "ser05",
+                "urlname": "uiux-designing"
+              },
+              {
+                "name": "Graphic Designing",
+                "id": "ser06",
+                "urlname": "graphic-designing"
+              }
+            ]
+          },
+          {
+            "name": "Technologies",
+            "id": "457854774",
+            "urlName": "technologies",
+            "sublinks": []
+          },
+          {
+            "name": "Contact Us",
+            "id": "457854775",
+            "urlName": "contact-us",
+            "sublinks": []
+          }
+        ]
+      },
+      "Bannercontent":{
+        "id": "587454",
+        "heading": "Creating a Seamless Customer Experience Across Offline and Online Brand Touchpoints",
+        "subcontent": "We deliver cutting-edge, scalable, and results-driven next-generation technology tailored to elevate your business."
+      },
+      "welcomesection":{
+        "heading": "Develop Your Brand, Expand Its Reach",
+        "headingopt": [
+          {
+            "name": "Online Store Solutions",
+            "id": "457785"
+          },
+          {
+            "name": "Branding Approach",
+            "id": "457786"
+          },
+          {
+            "name": "Imaginative Works",
+            "id": "457787"
+          },
+          {
+            "name": "End-to-End Web and App Solutions",
+            "id": "4577887"
+          }
+        ]
+      },
+      "agencycontent": {
+        "content": "With over a decade of experience, we specialize in delivering top-tier products. Don’t just take our word for it—our results speak for themselves.",
+        "img": "https://res.cloudinary.com/dfvonhupq/image/upload/v1734019685/Mask_group_gzxs0a.png"
+      },
+      "services":{
+        "heading": "Our Premium Services we provided",
+        "subheading": "We are 100+ professional software engineers with more than 10 years of experience in delivering superior products Believe it because you’ve seen it. Here are real numbers.",
+        "oursevices":[
+          {
+            "name": "Digital Marketing",
+            "id": "ser4457v",
+            "content": "The Easiest Way to Improvet Your Site Speed",
+            "burl": "digitamarketServicesBG_kqbfqs.png"
+          },
+          {
+            "name": "Ecommerce Development",
+            "id": "ser445457v",
+            "content": "The Easiest Way to Improvet Your Site Speed",
+            "burl": "ecommerceServicesBG_kpslez.png"
+          },
+          {
+            "name": "Web Application Development",
+            "id": "ser44785v",
+            "content": "The Easiest Way to Improvet Your Site Speed",
+            "burl": "webdevServicesBG_ygiubd.png"
+          },
+          {
+            "name": "Mobile App Development",
+            "id": "ser46594v",
+            "content": "The Easiest Way to Improvet Your Site Speed",
+            "burl": "mobiledevServicesBG_ckmzu3.png"
+          },
+          {
+            "name": "UI/UX Designing",
+            "id": "ser365895v",
+            "content": "The Easiest Way to Improvet Your Site Speed",
+            "burl": "uiuxServicesBG_bpjztc.png"
+          },
+          {
+            "name": "Graphic Designing",
+            "id": "ser569844v",
+            "content": "The Easiest Way to Improvet Your Site Speed",
+            "burl": "graphicdesignServicesBG_wc3hr6.png"
+          }
+        ]
+      },
+      "marketweserve":{
+        "heading": "Markets We Cater To",
+        "subheading": "Indutries",
+        "industries":[
+          {
+            "sname": "Retail & Ecommerce",
+            "name": "Enterprise eCommerce & Retail",
+            "id": "5487881",
+            "desc": "Omnichannel retail and eCommerce services will redefine how customers interact with your brand, creating seamless and engaging experiences across all touchpoints."
+          },
+          {
+            "sname": "Sports & Entertainment",
+            "name": "Sports & Entertainment",
+            "id": "54878821",
+            "desc": "Harness real-time data to deliver personalized interactions, transforming the way customers engage with sports and entertainment."
+          },
+          {
+            "sname": "Media & Publishing Industry",
+            "name": "Digitizing The Media & Publishing Industry",
+            "id": "78455",
+            "desc": "Leverage specific strategies designed to revolutionize the media and publishing industry, driving innovation and growth."
+          },
+          {
+            "sname": "Food & Beverages",
+            "name": "Food & Beverages Software Development",
+            "id": "2343424",
+            "desc": "Our expert developers craft tailored, flexible, and configurable software solutions designed to enhance delivery efficiency, boost sales, and maximize profitability in the food and beverage sector."
+          },
+          {
+            "sname": "Healthcare and Fitness",
+            "name": "Healthcare and Fitness Software Development Company",
+            "id": "456677",
+            "desc": "We develop custom healthcare applications that save time for patients and doctors by simplifying appointment scheduling and streamlining the check-in process."
+          },
+          {
+            "sname": "E-Learning Solution",
+            "name": "Custom E-Learning Solutions",
+            "id": "87789780",
+            "desc": "Our experts in e-learning software development craft unparalleled solutions that enhance user experiences, supporting the evolution of educational systems to meet the goals of higher education institutions."
+          },
+          {
+            "sname": "Logistics",
+            "name": "Simplifying Digital Supply Chains Through Strategy & Innovations",
+            "id": "12332343",
+            "desc": "At Aricxes, we are dedicated to revolutionizing the logistics and transportation industry by driving operational efficiency and automation in your business using cutting-edge technologies and tools."
+          }
+        ]
+      },
+      "workingprocess":{
+        "list":[
+          {
+            "name": "startergy",
+            "id": "01",
+            "desc": "By analyzing what drives success in your online industry, we craft a website tailored to your unique goals and audience.",
+            "img": "v1734335932/support_ging7n.jpg",
+            "clr": "#FF497C"
+          },
+          {
+            "name": "Design",
+            "id": "02",
+            "desc": "We transform your vision into reality by creating a unique masterpiece that brings your brand to life, tailored exclusively for you.",
+             "img": "v1734335932/designing_q4ua3x.jpg",
+            "clr": "#A0CE4E"
+          },
+          {
+            "name": "Develop",
+            "id": "03",
+            "desc": "Your website comes to life on our dedicated development server, allowing you to watch the entire process unfold in real time.",
+             "img": "v1734335932/develop_qrqgnl.jpg",
+            "clr": "#00BEA3"
+          },
+          {
+            "name": "Support",
+            "id": "04",
+            "desc": "This is your moment to go live. From design and marketing to ongoing maintenance, we’ll be by your side every step of the way, ensuring your site thrives.",
+             "img": "v1734335932/stratergy_hnypmg.jpg",
+            "clr": "#F1894C"
+          }
+        ]
+      },
+      "chooseus":{
+        "heading": "Why Choose ARICXES?",
+        "subheading": "Reasons to Choose",
+        "reasons":[
+          {
+            "name": "Short Go Live Time",
+            "desc": "Plug and play ecommerce platform & ecosystem"
+          },
+          {
+            "name": "Empowered Data Driven Decision Making",
+            "desc": "AI driven technology architecture"
+          },
+          {
+            "name": "Increased Sales Across Channels",
+            "desc": "By providing a seamless brand experience"
+          },
+          {
+            "name": "Enhanced operational efficiency",
+            "desc": "Through catalog, merchandising, end to end marketing, fulfilment operations & customer support"
+          }
+        ]
+      },
+      "footer": {
+        "phonenumber": "+91-9650592248",
+        "email": "support@aricxes.com",
+        "content": "For leading digital brand marketers, Aricxes is the most powerful dynamic creative platform for scaling mobile, native and rich media website campaigns. We are into the business of website & mobile application development."
+      },
+      "about":{
+        "heading": "Empowering Brand Growth Together",
+        "subheading": "About Aricxes",
+        "content": "As per innovation and human behavior we are the company who changed according to the trend and help our customer to follow the trend for their business. For leading digital marketer, Aricxes is the most powerful dynamic creative platform for scaling mobile, native and rish media website campaigns. We are into the business of website & mobile application development.\nOver these years, we provide extremely, cost-effective development without compromising on quality & have created websites and web applications for companies both large and small, and across a wide range of industries. We have strong domain experience in Web Designing, E-Commerce, Gaming, Application development and Product R&D.",
+        "ourmission": "At Aricxes, our mission is to empower businesses with top-notch digital solutions. We specialize in web development, mobile app development, UI/UX design, ecommerce solutions, SEO, website maintenance, and creative design services. Our goal is to help you grow by creating user-friendly, innovative, and visually stunning digital experiences that drive success. With a focus on quality and customer satisfaction, we are dedicated to delivering tailored solutions that meet your unique needs and elevate your online presence.",
+        "ourgoal": "At Aricxes, our goal is to help businesses succeed in the digital world. We strive to create innovative, user-focused, and impactful digital solutions that drive growth and enhance online presence. Whether it’s designing a stunning website, building a mobile app, or improving search engine visibility, our aim is to deliver results that exceed expectations. \n\n We are committed to empowering businesses with tools and strategies that foster long-term success while building lasting relationships with our clients. Your success is our mission!"
+      },
+      "branding":{
+        "heading": "High-Quality Solutions to Elevate Your Brand Identity",
+        "subheading": "Work Process",
+        "process": [
+          {
+            "title": "Strategy",
+            "content": "We start by understanding your goals, target audience, and market landscape. This helps us craft a solid strategy that aligns with your business objectives and ensures long-term success."
+          },
+          {
+            "title": "Design & Develop",
+            "content": "we combine creativity and innovation to design and develop digital solutions that elevate your brand identity and drive growth. Our process begins with crafting visually stunning and user-friendly designs tailored to your vision and goals."
+          },
+          {
+            "title": "Delivery on Time",
+            "content": "We understand the importance of deadlines. Our team is committed to delivering your project on time, ensuring that it is fully functional, tested, and ready to go live."
+          }
+        ]
+      }
+    }
+  ]
+}
