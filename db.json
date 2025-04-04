@@ -1,5 +1,5 @@
 {
-    "data": [
+  "data": [
     {
       "id": "015c",
       "logocomp": {
@@ -277,5 +277,147 @@
         ]
       }
     }
-  ]
+  ],
+  "data2":{
+    "menu": [
+      {
+        "title": "Home",
+        "path": "/",
+        "subMenu": []
+      },
+      {
+        "title": "About Us",
+        "path": "/about",
+        "subMenu": []
+      },
+      {
+        "title": "Our Services",
+        "subMenu": [
+          {
+            "id": "digital-marketing",
+            "title": "Digital Marketing",
+            "path": "/services/digital-marketing"
+          },
+          {
+            "id": "web-development",
+            "title": "Web Development",
+            "path": "/services/web-development"
+          },
+          {
+            "id": "ecommerce-development",
+            "title": "Ecommerce Development",
+            "path": "/services/ecommerce-development"
+          },
+          {
+            "id": "uiux-designing",
+            "title": "UI/UX Designing",
+            "path": "/services/uiux-designing"
+          },
+          {
+            "id": "graphic-designing",
+            "title": "Graphic Designing",
+            "path": "/services/graphic-designing"
+          },
+          {
+            "id": "enterprise-app-development",
+            "title": "Enterprise App Development",
+            "path": "/services/enterprise-app-development"
+          },
+          {
+            "id": "seo",
+            "title": "SEO Optimization",
+            "path": "/services/seo"
+          }
+        ]
+      },
+      {
+        "title": "Technologies",
+        "path": "/technologies",
+        "subMenu": []
+      },
+      {
+        "title": "Contact Us",
+        "path": "/contact",
+        "subMenu": []
+      }
+    ]
+  },
+  "data3":{
+      "submenuContent": {
+        "web-development": {
+          "title": "Website Development",
+          "heading": "Enjoy Our Web Development Services to Disrupt Your Market",
+          "subheading": "We create platform-independent, feature-rich web apps that allow businesses to engage with their customers across all touch points."
+        },
+        "ecommerce-development": {
+          "title": "Ecommerce Development",
+          "heading": "eCommerce Development Service",
+          "subheading": "If you want to create, redesign, or update your e-commerce website, CNTech is your one-stop solution for you.",
+          "content":[
+            {
+              "title": "We Provide eCommerce Software Development Services for All Kinds of Businesses.",
+              "subtitle": "Your concept is unique, and we can make it a beautiful reality. With our custom eCommerce development services, we can assist you in making your dream a reality.",
+              "subsubtitle": "Ecommerce Services",
+              "infolist": [
+                {
+                  "title": "eCommerce Strategy & Consultation",
+                  "para": "We provide e-commerce development services to assist you in determining the best solution for your e-commerce business."
+                },
+                {
+                  "title": "Auction & Bidding Platform",
+                  "para": "Take advantage of our services whenever you want to grow your eCommerce business."
+                },
+                {
+                  "title": "eCommerce Website Development",
+                  "para": "eCommerce websites are a must-have for businesses looking to expand into the online market."
+                },
+                {
+                  "title": "eCommerce Website Optimization",
+                  "para": "A website is never complete unless it is optimized. When we say top-notch, we really mean it."
+                },
+                {
+                  "title": "Payment Gateway Integration",
+                  "para": "One of our top priorities is ensuring that your customers can shop safely on both the web and mobile.We integrate your eCommerce."
+                },
+                {
+                  "title": "Online Store Development",
+                  "para": "We are a premier e-commerce development firm that specializes in managing various online store projects of varying complexity."
+                }
+              ]
+            },
+            {
+              "title": "We Offer Custom Ecommerce Website Development for All major Platforms",
+              "subtitle": "CNTech offers a wide range of eCommerce website development services for a variety of prominent platforms that help businesses transform.",
+              "subsubtitle": "Ecommerce Platforms",
+              "infolist": [
+                {
+                  "title": "Laravel",
+                  "para": "CNTech is an eCommerce development company that is passionate about creating an online platform that will assist our clients in growing their businesses."
+                },
+                {
+                  "title": "WooCommerce",
+                  "para": "Using the power of WooCommerce, the CNTech team will bring your eCommerce website to life. With skilled developers,"
+                },
+                {
+                  "title": "Magento 2.0",
+                  "para": "Migrate your existing store to Magento 2.0 to improve your eCommerce business's conversions, sales,and returns. With an experienced team."
+                },
+                {
+                  "title": "OpenCart",
+                  "para": "OpenCart is a powerful eCommerce solution that allows you to quickly build a robust online store. It aids in the smooth management of the entire process."
+                },
+                {
+                  "title": "NopCommerce",
+                  "para": "Do you require NopCommerce development services? CNTech India is your one-stop destination for multidimensional business growth and full-cycle support."
+                },
+                {
+                  "title": "Brightpearl Integration",
+                  "para": "Our Magento eCommerce Integration Services are intended to assist you in transforming your eCommerce store into a thriving multichannel business."
+                }
+              ]
+            }
+          ]
+        }
+      }
+  }
 }
